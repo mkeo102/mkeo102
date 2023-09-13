@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=mkeo102&color=Red&style=STYLE&label=TEXT)
+![](https://komarev.com/ghpvc/?username=mkeo102&color=blue&style=STYLE&label=TEXT)
 
 
 ![l](https://skillicons.dev/icons?i=python,html,css,java,javascript,git,vscode,linux&perline=6)
