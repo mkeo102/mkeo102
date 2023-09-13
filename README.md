@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=mkeo102&color=#FF0000&style=STYLE&label=TEXT)
+<p align=center> <img src="https://profile-counter.glitch.me/USERNAME/count.svg" /></p>
 
 
 ![l](https://skillicons.dev/icons?i=python,html,css,java,javascript,git,vscode,linux&perline=6)
