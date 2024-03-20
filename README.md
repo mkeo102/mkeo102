@@ -1,7 +1,6 @@
 
-Mkeo102
+#Mkeo102
 
-<p align=center> <img src="https://profile-counter.glitch.me/USERNAME/count.svg" /></p>
 
 
 ![l](https://skillicons.dev/icons?i=python,html,css,java,javascript,git,vscode,linux&perline=6)
