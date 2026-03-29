@@ -10,11 +10,7 @@
 - 🔭 I’m currently working on an Obfuscator.
 - 🌱 I’m currently learning java bytecode manipulation and obfuscation
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkeo102&theme=gruvbox&show_icons=true&hide_border=true&layout=compact"> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mkeo102&theme=gruvbox&show_icons=true&hide_border=true&count_private=true"> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkeo102&theme=gruvbox&hide_border=true"> 
-</div>
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mkeo102)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <!--
 **mkeo102/mkeo102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
